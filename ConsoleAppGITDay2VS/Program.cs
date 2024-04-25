@@ -10,6 +10,7 @@ namespace ConsoleAppGITDay2VS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Changes made in GitHUB");
         }
     }
 }
