@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppGITDay2VS", "ConsoleAppGITDay2VS\ConsoleAppGITDay2VS.csproj", "{BAB80B50-9E76-42B6-947B-6D70A9C06F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB80B50-9E76-42B6-947B-6D70A9C06F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB80B50-9E76-42B6-947B-6D70A9C06F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB80B50-9E76-42B6-947B-6D70A9C06F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB80B50-9E76-42B6-947B-6D70A9C06F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {579F666E-6738-411C-9C93-21342AB60CA6}
+	EndGlobalSection
+EndGlobal
